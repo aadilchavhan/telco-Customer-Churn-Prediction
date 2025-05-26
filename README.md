@@ -1,5 +1,5 @@
 # **Customer Churn Prediction Using Neural Networks**
-![Project Status](https://img.shields.io/badge/status-Active-brightgreen) ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Project Status](https://img.shields.io/badge/status-Active-brightgreen) ![Python Version](https://img.shields.io/badge/python-12.7%2B-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ## **Overview**
 This project aims to predict customer churn for a telecom company using historical usage patterns. We first implement a **Single-Layer Perceptron (SLP)** to classify customers and identify its limitations. To enhance prediction accuracy, we upgrade to a **Multi-Layer Perceptron (MLP)**. The model can help businesses retain customers by identifying high-risk churn profiles.
